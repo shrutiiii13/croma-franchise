@@ -20,7 +20,7 @@ Shyamsunder Corporation Private Limited is a multi-franchise business group comm
 
    
     <div className="w-full md:w-1/2">
-      <img src={heroimg} alt="Hero" class="w-full h-auto object-cover rounded-lg shadow-lg" />
+      <img src={heroimg} alt="Hero" className="w-full h-auto object-cover rounded-lg shadow-lg" />
     </div>
   </div>
     </section>
